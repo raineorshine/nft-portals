@@ -8,7 +8,11 @@
   },
   "author": "Raine Revere",
   "license": "ISC",
+  "scripts": {
+    "start": "serve -s ."
+  },
   "devDependencies": {
-    "prettier": "^2.5.1"
+    "prettier": "^2.5.1",
+    "serve": "^13.0.2"
   }
 }
