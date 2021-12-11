@@ -1,12 +1,12 @@
 var svg, path
 function preload() {
-  svg = loadSVG('test.svg')
+  svg = loadSVG('images/pendant.svg')
   frameRate(20)
 }
 
 function setup() {
-  createCanvas(800, 800, SVG)
-  image(svg, 0, 0, 800, 800)
+  createCanvas(600, 600, SVG)
+  image(svg, 0, 0, 600, 600)
   path = querySVG('path')[1]
 }
 
