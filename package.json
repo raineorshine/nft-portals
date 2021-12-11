@@ -1,0 +1,14 @@
+{
+  "name": "nft-portals",
+  "version": "0.1.0",
+  "description": "NFT Portals",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raine Revere",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
