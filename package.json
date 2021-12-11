@@ -9,7 +9,7 @@
   "author": "Raine Revere",
   "license": "ISC",
   "scripts": {
-    "start": "serve -s ."
+    "start": "serve -p 3033 -s . "
   },
   "devDependencies": {
     "prettier": "^2.5.1",
