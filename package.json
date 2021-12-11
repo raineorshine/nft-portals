@@ -9,6 +9,7 @@
   "author": "Raine Revere",
   "license": "ISC",
   "scripts": {
+    "deploy": "surge . nft-portal.surge.sh",
     "start": "serve -p 3033 -s . "
   },
   "devDependencies": {
