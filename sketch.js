@@ -5,8 +5,8 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(600, 600, SVG)
-  image(svg, 0, 0, 600, 600)
+  createCanvas(1000, 1000, SVG)
+  image(svg, 0, 0, 1000, 1000)
   gradientStops = querySVG('#grad1 stop')
 }
 
