@@ -2,16 +2,11 @@
   "name": "nft-portals",
   "version": "0.1.0",
   "description": "NFT Portals",
-  "main": "sketch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Raine Revere",
   "license": "ISC",
-  "scripts": {
-    "deploy": "surge . nft-portal.surge.sh",
-    "start": "serve -p 3033 -s . "
-  },
   "devDependencies": {
     "prettier": "^2.5.1",
     "serve": "^13.0.2"
