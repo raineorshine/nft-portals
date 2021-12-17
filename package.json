@@ -7,6 +7,10 @@
   },
   "author": "Raine Revere",
   "license": "ISC",
+  "scripts": {
+    "start": "serve -p 3033 .",
+    "deploy": "surge . nft-portals"
+  },
   "devDependencies": {
     "prettier": "^2.5.1",
     "serve": "^13.0.2"

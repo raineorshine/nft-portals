@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="20 10 60 60" >
+
+	 <defs>
+	   <linearGradient id="gradient1" x1="0%" y1="0%" x2="0%" y2="100%">
+	      <stop offset="5%" />
+	      <stop offset="70%" />
+	   </linearGradient>
+
+      <linearGradient id="gradient2" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="5%" />
+        <stop offset="70%" />
+      </linearGradient>
+
+      <linearGradient id="gradient3" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="5%" />
+        <stop offset="70%" />
+      </linearGradient>
+
+	    <linearGradient id="gradient4" x1="0%" y1="0%" x2="0%" y2="100%">
+	      <stop offset="5%" />
+	      <stop offset="70%" />
+	    </linearGradient>
+
+	</defs>
+
+  <ellipse cx="40" cy="20" rx="5" ry="5" fill="url(#gradient1)" />
+  <ellipse cx="43" cy="25" rx="6" ry="6" fill="url(#gradient3)" />
+  <ellipse cx="50" cy="22" rx="4" ry="4" fill="url(#gradient2)" />
+  <ellipse cx="56" cy="22.5" rx="3.5" ry="3.5" fill="url(#gradient4)" />
+  <ellipse cx="63" cy="25" rx="1.8" ry="1.8" fill="url(#gradient4)" />
+
+  <ellipse cx="35" cy="38" rx="3" ry="3" fill="url(#gradient3)" />
+  <ellipse cx="40" cy="33" rx="5" ry="5" fill="url(#gradient1)" />
+  <ellipse cx="50" cy="30" rx="3" ry="3" fill="url(#gradient2)" />
+  <ellipse cx="60" cy="21" rx="4" ry="4" fill="url(#gradient3)" />
+
+  <ellipse cx="35" cy="43" rx="3" ry="3" fill="url(#gradient2)" />
+  <ellipse cx="40" cy="40" rx="4" ry="4" fill="url(#gradient4)" />
+  <ellipse cx="65.1" cy="45.6" rx="2" ry="2" fill="url(#gradient3)" />
+
+  <ellipse cx="69" cy="34" rx="3" ry="3" fill="url(#gradient2)" />
+  <ellipse cx="70" cy="40" rx="4" ry="4" fill="url(#gradient4)" />
+
+  <ellipse cx="44.1" cy="39.5" rx="3" ry="3" fill="url(#gradient1)" />
+  <ellipse cx="65.1" cy="45.6" rx="2" ry="2" fill="url(#gradient3)" />
+  <ellipse cx="44" cy="52" rx="10" ry="10" fill="url(#gradient2)" />
+  <ellipse cx="66.5" cy="43.3" rx="1.2" ry="1.2" fill="url(#gradient2)" />
+  <ellipse cx="59" cy="54" rx="9" ry="9" fill="url(#gradient4)" />
+  <ellipse cx="56" cy="36" rx="12" ry="12" fill="url(#gradient1)" />
+</svg>
