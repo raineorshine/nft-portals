@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" >
+
+	 <defs>
+	   <linearGradient id="gradient-outer" x1="0%" y1="0%" x2="0%" y2="100%">
+	      <stop offset="5%" />
+	      <stop offset="70%" />
+	   </linearGradient>
+
+	    <linearGradient id="gradient-inner" x1="0%" y1="0%" x2="0%" y2="100%">
+	      <stop offset="5%" />
+	      <stop offset="70%" />
+	    </linearGradient>
+
+	</defs>
+
+  <ellipse cx="40" cy="20" rx="10" ry="10" fill="url(#gradient-outer)" />
+  <ellipse cx="50" cy="20" rx="10" ry="10" fill="url(#gradient-outer)" />
+  <ellipse cx="60" cy="20" rx="10" ry="10" fill="url(#gradient-outer)" />
+
+  <ellipse cx="30" cy="30" rx="10" ry="10" fill="url(#gradient-outer)" />
+  <ellipse cx="40" cy="30" rx="10" ry="10" fill="url(#gradient-outer)" />
+  <ellipse cx="50" cy="30" rx="10" ry="10" fill="url(#gradient-outer)" />
+  <ellipse cx="60" cy="30" rx="10" ry="10" fill="url(#gradient-outer)" />
+  <ellipse cx="70" cy="30" rx="10" ry="10" fill="url(#gradient-outer)" />
+
+  <ellipse cx="30" cy="40" rx="10" ry="10" fill="url(#gradient-outer)" />
+  <ellipse cx="40" cy="40" rx="10" ry="10" fill="url(#gradient-outer)" />
+  <ellipse cx="50" cy="40" rx="10" ry="10" fill="url(#gradient-outer)" />
+  <ellipse cx="60" cy="40" rx="10" ry="10" fill="url(#gradient-outer)" />
+
+  <ellipse cx="40" cy="50" rx="10" ry="10" fill="url(#gradient-outer)" />
+  <ellipse cx="50" cy="50" rx="10" ry="10" fill="url(#gradient-outer)" />
+  <ellipse cx="60" cy="50" rx="10" ry="10" fill="url(#gradient-outer)" />
+  <ellipse cx="70" cy="50" rx="10" ry="10" fill="url(#gradient-outer)" />
+</svg>
