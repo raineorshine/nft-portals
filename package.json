@@ -9,7 +9,7 @@
   "license": "ISC",
   "scripts": {
     "start": "serve -p 3033 .",
-    "deploy": "surge . nft-portals"
+    "deploy": "surge . nft-portals.surge.sh"
   },
   "devDependencies": {
     "prettier": "^2.5.1",
